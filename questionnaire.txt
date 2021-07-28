@@ -1,0 +1,5 @@
+Quelle est la capitale de la france ?/Marseille Paris Nantes Toulouse/Paris
+Quelle est la capitale de l'Italie ?/Rome Venis Florence Pise/Rome
+Quelle est la capitale d'Agleterre ?/Manchester Bistrol Birmingham Londre/Londre
+Quel est le resultat de (3*5) ?/27 15 8 14/15
+Quelle est la suite de (2,4,6,8,?) ?/22 9 11 7 10 14/10
